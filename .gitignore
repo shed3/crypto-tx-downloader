@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Local env json
+env.json
+
+# Build Files
+lib/
+
+# Downloaded Transactions
+transactions.json

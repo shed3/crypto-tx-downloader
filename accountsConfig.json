@@ -1,0 +1,32 @@
+{
+    "bittrex": {
+        "type": "api",
+        "credentials": {
+            "apiKey": "API_KEY",
+            "secret": "API_SECRET"
+        }
+    },
+    "coinbase": {
+        "type": "api",
+        "credentials": {
+            "apiKey": "API_KEY",
+            "secret": "API_SECRET"
+        }
+    },
+    "coinbasepro": {
+        "type": "api",
+        "credentials": {
+            "apiKey": "API_KEY",
+            "secret": "API_SECRET",
+            "password": "PASSWORD"
+        }
+    },
+    "kucoin": {
+        "type": "api",
+        "credentials": {
+            "apiKey": "API_KEY",
+            "secret": "API_SECRET",
+            "password": "PASSWORD"
+        }
+    }
+}
