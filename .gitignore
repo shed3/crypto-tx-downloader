@@ -111,3 +111,4 @@ lib/
 
 # Downloaded Transactions
 transactions.json
+accountsConfig.json
